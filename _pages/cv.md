@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Laser-Plasma Instabilities for Shock Ignition, University of Warwick, (current)
+* B.Sc. in Mathematics, University of Warwick, 2017
 
-Work experience
+Awards and Grants
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: PIC Simulations of Laser-Plasma Instabilities in Shock Ignition
+  * Co-investigator on a grant for time on national super-computing facility.
+  * Awarded: 3 million core hours
+  * PI: Professor Tony Arber
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: National Productivity Investment Fund Studentship
+  * PhD funding scholarship recognising exceptional achievenent and potential in research students.
+  * Awarded: £70,000 funding for my four years of PhD study
+  * Supervisor: Professor Tony Arber and Dr Keith Bennett
   
 Skills
 ======
@@ -54,6 +53,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Professional Training
+=====================
+* High Energy Density Science Summer School
+  * July 2019, UC San Diego
+
+* Short-Pulse Lasers and Applications Summer School
+  * June 2019, University of Bordeaux
+  * Intensive week-long course; focused on the theory of short pulse laser generation, and their applications to laboratory astrophysics and particle source generation.
+  
+* High Energy Density Science Summer School
+  * July 2018, University of Michigan
+  * Two week-long course following the textbook “High Energy Density Physics” by R.P. Drake.
+  
+* Plasma Physics Autumn School
+  * November 2017, Oxford University
+  * Week-long course covering the fundamentals of plasma physics for new PhD students.
