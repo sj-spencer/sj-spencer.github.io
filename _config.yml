@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "SJ Spencer"
   avatar           : "https://avatars1.githubusercontent.com/u/31666431?s=400&v=4"
-  bio              : "PhD student in the Centre for Fusion, Space, and Astrophysics, University of Warwick"
+  bio              : "PhD student studying Laser-Plasma Interactions at the University of Warwick"
   location         : "Coventry,UK"
   employer         : 
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
