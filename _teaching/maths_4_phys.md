@@ -10,7 +10,8 @@ location: "City, Country"
 
 Mathematics for Physicists
 ==========================
-I am a class teacher for the first-year undergraduate module [PX149 Mathematics for Physicists](https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/px/px149/). 
+I am a class teacher for the first-year undergraduate module [PX149 Mathematics for Physicists](https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/px/px149/). I plan and deliver two maths classes a week, as well as grading student’s assignments. I use the expertise developed in my mathematics degree to build on the material covered in lectures,
+to help my students construct their own coherent mathematical toolkit.
 
 Testimonials from students
 ==========================
