@@ -26,15 +26,6 @@ Awards and Grants
   * Awarded: £70,000 funding for my four years of PhD study
   * Supervisor: Professor Tony Arber and Dr Keith Bennett
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
