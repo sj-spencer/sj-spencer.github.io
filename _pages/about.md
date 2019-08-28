@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the University of Warwick working on Laser-Plasma Interactions relevant to Shock Ignition, where I am supervised by Professor Tony Arber, and Dr Keith Bennett.
+I am currently a PhD student at the University of Warwick working on Laser-Plasma Interactions relevant to Shock Ignition, where I am supervised by <a href="https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/tda/">Professor Tony Arber</a> and <a href="https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/bennett">Dr Keith Bennett</a>.
 
 My primary research interests involve the use of PIC codes to probe the fundamental physics of plasma instabilities. I am currently working as part of a team to understand laser-plasma interactions (LPI) in the shock-ignition model of inertial confinement fusion. I am responsible for simulating LPI phenomena (specifically Stimulated Raman Scattering (SRS) and inflationary SRS) which we expect to play a role in our collaboration’s experiments on the Omega laser system.
 
