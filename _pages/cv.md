@@ -16,6 +16,9 @@ Education
 
 Awards and Grants
 ======
+* 2019: Inflationary Stimulated Raman Scattering in Shock Ignition Plasmas
+  * Winner of the first place poster prize at High Energy Density Summer School at UC San Diego.
+  
 * 2018: PIC Simulations of Laser-Plasma Instabilities in Shock Ignition
   * Co-investigator on a grant for time on national super-computing facility.
   * Awarded: 3 million core hours
@@ -48,6 +51,7 @@ Professional Training
 =====================
 * High Energy Density Science Summer School
   * July 2019, UC San Diego
+  * Completed the Kinetic Modelling workshop under the instruction of Frank Tsung.
 
 * Short-Pulse Lasers and Applications Summer School
   * June 2019, University of Bordeaux
