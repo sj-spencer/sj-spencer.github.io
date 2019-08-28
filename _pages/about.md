@@ -14,7 +14,9 @@ My primary research interests involve the use of PIC codes to probe the fundamen
 
 I am interested in how the first-principles PIC method can fail to reproduce instabilities observed in experiments; for example, how SBS reflectivity is greatly over-estimated in simulations compared to experiments. I will eventually be working on simulating realistic laser speckles and studying their impact on LPI evolution. 
 
-I am also working on PIC simulations of the electron-positron jets produced by micro-quasar systems, studying the filamentation instability in the protons of the interstellar medium in order to explain observations of well-collimated jets with speeds up to 0.9c.
+In the winter term of 2020 I will be working at UC San Diego as a Junior Specialist, running PIC simulations in support of an experimental campaign under the supervision of Professor Farhat Beg.
+
+I am also working on PIC simulations of the electron-positron jets produced by micro-quasar systems under the supervision of Professor Mark Dieckmann. We are studying the filamentation instability in the protons of the interstellar medium in order to explain observations of well-collimated jets with speeds up to 0.9c.
 
 ## Contact
 ----------
