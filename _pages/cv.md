@@ -25,7 +25,7 @@ Awards and Grants
   * PI: Professor Tony Arber
 
 * 2017: National Productivity Investment Fund Studentship
-  * PhD funding scholarship recognising exceptional achievenent and potential in research students.
+  * PhD funding scholarship recognising exceptional achievement and potential in research students.
   * Awarded: £70,000 funding for my four years of PhD study
   * Supervisor: Professor Tony Arber and Dr Keith Bennett
   
