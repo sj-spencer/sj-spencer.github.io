@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/maths-4-phys
 venue: "University of Warwick, Department of Physics"
-date: '17-'18 and '18-'19 academic years 
+date: October 2017 - October 2019 
 location: "City, Country"
 ---
 
