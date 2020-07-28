@@ -84,7 +84,7 @@ author:
   avatar           : "https://avatars1.githubusercontent.com/u/31666431?s=400&v=4"
   bio              : "PhD student studying Laser-Plasma Interactions at the University of Warwick"
   location         : "Coventry,UK"
-  employer         : "Centre for Fusion, Space, and Astrophysics"
+  employer         : #"Centre for Fusion, Space, and Astrophysics"
   pubmed           : 
   googlescholar    : 
   email            : "sj_spencer@outlook.com"
