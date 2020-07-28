@@ -6,10 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<a href="https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/tda/">Professor Tony Arber</a>
-
-To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/CV_Jul2020.pdf">here</a>
+To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/CV_Jul2020.pdf">here</a>.
 
 {% include base_path %}
 
