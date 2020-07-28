@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+To download a pdf version of my full CV, click <ahref='https://sj-spencer.github.io/files/CV_Jul2020.pdf'>here</a>
 
 {% include base_path %}
 
