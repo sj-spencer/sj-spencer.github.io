@@ -6,13 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/CV_Jul2020.pdf">here</a>.
+To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/SJ_Spencer_CV_Nov2020.pdf">here</a>.
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Laser-Plasma Instabilities for Shock Ignition, University of Warwick, (current)
+* Ph.D in Laser-Plasma Instabilities for Shock Ignition, University of Warwick, expected graduation October 2021
 * B.Sc. in Mathematics, University of Warwick, 2017
 
 Awards and Grants
