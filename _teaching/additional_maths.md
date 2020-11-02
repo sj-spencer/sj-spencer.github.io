@@ -8,5 +8,4 @@ date: October 2019 - January 2020
 location: "City, Country"
 ---
 
-This role involved small group teaching, working with students to bring
-their mathematical understanding up to the level needed for first year Physics modules.
+This role involved small group teaching, working with students to bring their mathematical understanding up to the level needed for first year Physics modules.
