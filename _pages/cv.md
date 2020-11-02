@@ -17,6 +17,11 @@ Education
 
 Awards and Grants
 ======
+* 2020: PIC Simulations of Stimulated Raman Scattering Driven by a Broadband Laser
+  * Co-investigator on a grant for time on national supercomputer.
+  * Awarded: 0.5 million core hours
+  * PI: Professor Tony Arber
+
 * 2019: Inflationary Stimulated Raman Scattering in Shock Ignition Plasmas
   * Winner of the first place poster prize at High Energy Density Summer School at UC San Diego.
   
@@ -30,13 +35,13 @@ Awards and Grants
   * Awarded: £70,000 funding for my four years of PhD study
   * Supervisor: Professor Tony Arber and Dr Keith Bennett
   
-<!---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  --->
+
   
 Talks
 ======
