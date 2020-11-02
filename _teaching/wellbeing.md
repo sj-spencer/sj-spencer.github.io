@@ -4,14 +4,9 @@ collection: teaching
 type: "Departmental role"
 permalink: /teaching/wellbeing
 venue: "University of Warwick, Department of Physics"
-date: September 2018 - Present
+date: September 2018 - October 2019
 ---
 
-Wellbeing officer
-==========================
-I identified the need for a post-graduate wellbeing programme in the Physics department. I conducted a consulation with post-graduate students in the department and have since put in place:
-* A weekly “wellbeing coffee” event which encourages discussion of self-care and community-care.
-* A wellbeing Discord server for students to share advice and ask for help.
-* A revamp of the wellbeing resources provided to students joining the department.
+I identified the need for a post-graduate wellbeing programme in the Physics department. I conducted a consulation with post-graduate students in the department and have since put in place: aweekly “wellbeing coffee” event which encourages discussion of self-care and community-care; a wellbeing Discord server for students to share advice and ask for help. I also worked with the department to revamp the wellbeing resources provided to students joining the department.
 
 If you would like to talk about setting up your own student wellbeing group, please get in touch!
