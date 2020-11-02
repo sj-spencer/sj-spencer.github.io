@@ -8,13 +8,9 @@ date: October 2017 - October 2019
 location: "City, Country"
 ---
 
-Mathematics for Physicists
-==========================
-I am a class teacher for the first-year undergraduate module [PX149 Mathematics for Physicists](https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/px/px149/). I plan and deliver two maths classes a week, as well as grading student’s assignments. I use the expertise developed in my mathematics degree to build on the material covered in lectures,
+I was a class teacher for the first-year undergraduate module [PX149 Mathematics for Physicists](https://warwick.ac.uk/services/aro/dar/quality/modules/undergraduate/px/px149/). I was responsible for planning and delivering two maths classes a week, as well as grading student’s assignments. I use the expertise developed in my mathematics degree to build on the material covered in lectures,
 to help my students construct their own coherent mathematical toolkit.
 
-Testimonials from students
-==========================
 Each term I give my students the opportunity to give anonymous feedback on my teaching and their experience of our classes. I have designed a google form for this feedback, which I can send to other graduate student teachers upon request. Here is some of the feedback I have got from my students:
 
 <blockquote>
