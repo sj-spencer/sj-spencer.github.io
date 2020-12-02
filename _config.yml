@@ -89,30 +89,14 @@ author:
   googlescholar    : 
   email            : "sj_spencer@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Sj_Spencer"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : 
-  google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "sjspencer22"
   orcid            : "https://orcid.org/0000-0003-3096-7776"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : 
-  steam            :
-  tumblr           :
   twitter          : #"ReluctantHacker"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
@@ -175,9 +159,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -187,7 +168,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  teaching:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
