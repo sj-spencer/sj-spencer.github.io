@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/SJ_Spencer_CV_Nov2020.pdf">here</a>.
+To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/SJ_Spencer_CV_Jan2021.pdf">here</a>.
 
 {% include base_path %}
 
