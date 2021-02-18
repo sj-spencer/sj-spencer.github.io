@@ -9,7 +9,6 @@ redirect_from:
 To download a pdf version of my full CV, click <a href="https://sj-spencer.github.io/files/SJ_Spencer_CV_Jan2021.pdf">here</a>.
 
 {% include base_path %}
-<embed src="{{ site.baseurl }}/files/main.pdf" width="600" height="700" type='application/pdf'> 
 
 Education
 ======
